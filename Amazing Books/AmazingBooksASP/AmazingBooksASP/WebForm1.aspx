@@ -11,6 +11,8 @@
     <div>
     
     </div>
+        <asp:Button ID="Button1" runat="server" Text="Button" />
+        <asp:Label ID="Label1" runat="server" Text="&lt;-- Rogiers Knop"></asp:Label>
     </form>
 </body>
 </html>
