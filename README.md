@@ -12,3 +12,8 @@ Regels!
 5. We wonen allemaal ergens anders. We komen op school indien nodig.
 
 Meer regels zullen volgen!
+
+
+
+
+HALLLLLUIOGEWIJRBNJOWEBGFUI
